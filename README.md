@@ -8,7 +8,7 @@
   <a href="https://www.tiktok.com/t/ZP8N7uY97/">
     <img src="tiktokVideo-Screenshot1.png" alt="TikTok screenshot" height="400" />
   </a>
-  <img src="psiDefenderDisc-mk0_prototype.jpeg" alt="Psi Defender Disc Prototype" width="400" />
+  <img src="psiDefenderDisc-mk0_prototype.jpeg" alt="Psi Defender Disc Prototype" height="400" />
 </p>
 
 ---
