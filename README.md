@@ -14,13 +14,13 @@ Below are example equations and frequency anchors you can use to help **ground**
 To estimate electromagnetic attenuation through a conducting layer, consider the **skin depth** \(\delta\) and layer thickness \(t\). An approximate formula for attenuation in decibels is:
 
 $$
-\alpha_{\text{dB}}(f) \;\approx\; 20 \,\log_{10}(e) \;\frac{t}{\delta},
+\alpha_{\text{dB}}(f) \approx 20 \,\log_{10}(e) \frac{t}{\delta},
 $$
 
 where
 
-- \(\delta = \sqrt{\frac{2\,\rho}{\omega\,\mu}}\) is the skin depth,
-- \(\rho\) is the electrical resistivity of the conductor,
+- $\delta = \sqrt{\frac{2\,\rho}{\omega\,\mu}}$ is the skin depth,
+- $$\rho$$ is the electrical resistivity of the conductor,
 - \(\omega = 2\pi f\) is the angular frequency,
 - \(\mu\) is the permeability of the material,
 - \(t\) is the thickness of the shielding layer.
