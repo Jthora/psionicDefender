@@ -8,20 +8,6 @@
 
 ---
 
-## Table of Contents 📚
-
-1. [Overview](#overview)  
-2. [Features & Components](#features--components)  
-3. [Project Structure](#project-structure)  
-4. [Getting Started](#getting-started)  
-5. [Contributing](#contributing)  
-6. [Legal & Ethical Disclaimer](#legal--ethical-disclaimer)  
-7. [Roadmap](#roadmap)  
-8. [Contact & Community](#contact--community)  
-9. [License](#license)
-
----
-
 ## Overview 🔍
 
 The **Psi Defender** is an **open-source** initiative to create, share, and refine **wearable technology** that helps counter various forms of **sonic**, **electromagnetic**, and **psionic** attacks. Our primary audience includes:
@@ -47,7 +33,7 @@ The **Psi Defender** is an **open-source** initiative to create, share, and refi
    - Mu-metal strips and repelling neodymium magnets to redirect low-frequency magnetic fields.  
 
 3. **Acoustic Dampening**  
-   - Dense foam, mass-loaded vinyl, or piezoelectric “noise-canceling” modules.  
+   - Dense foam, mass-loaded vinyl, Aerogel, or piezoelectric “noise-canceling” modules.  
 
 4. **Active Scrambler (Optional)**  
    - Low-power RF or ultrasonic jamming coils/speakers, powered by a microcontroller.  
