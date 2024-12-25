@@ -6,6 +6,13 @@
 
 [![TikTok screenshot](tiktokVideo-Screenshot1.png)](https://www.tiktok.com/t/ZP8N7uY97/)![TikTok screenshot](psiDefenderDisc-mk0_prototype.jpeg)
 
+<p align="center">
+  <a href="https://www.tiktok.com/t/ZP8N7uY97/">
+    <img src="tiktokVideo-Screenshot1.png" alt="TikTok screenshot" width="200" />
+  </a>
+  <img src="psiDefenderDisc-mk0_prototype.jpeg" alt="Psi Defender Disc Prototype" width="200" />
+</p>
+
 ---
 
 ## Table of Contents 📚
