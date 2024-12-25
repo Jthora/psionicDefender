@@ -1,8 +1,5 @@
 
-# Psi Defender Project 🛡️
-
-**License:** [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)  
-**Purpose:** Protect raver communities, targeted individuals, and everyday citizens from oppressive sonic/psionic interference—through open research and shared DIY solutions.
+# Psi Defender 🛡️
 
 <p align="center">
   <a href="https://www.tiktok.com/t/ZP8N7uY97/"><img src="tiktokVideo-Screenshot1.png" alt="TikTok screenshot" height="400" /></a>
@@ -175,6 +172,7 @@ Join our **community** to share insights, help test new prototypes, and keep thi
 ---
 
 ## License 📝
+[Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 All contents of this repository are released under the [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) license. This means you can **use, modify, and distribute** any part of the project **without restriction**, provided you comply with any relevant local laws. If you do improve or remix the project, please consider sharing back so others can benefit.
 
