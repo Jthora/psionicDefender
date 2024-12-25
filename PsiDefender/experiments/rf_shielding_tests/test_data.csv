@@ -1,0 +1,13 @@
+Frequency (GHz),Material,Configuration,Layer Thickness (mm),Baseline Signal (dBm),Shielded Signal (dBm),Shielding Effectiveness (dB),Notes
+2.4,Copper Foil,Single Layer,0.05,-20,-42,22,Standard adhesive copper foil applied evenly over the surface.
+2.4,Aluminum Foil,Single Layer,0.03,-20,-36,16,Kitchen-grade aluminum foil with slight wrinkles; reduced effectiveness.
+2.4,Mu-Metal,Single Layer,0.10,-20,-48,28,Highly effective for low and mid-frequency RF shielding.
+2.4,Copper + Mu-Metal,Layered,0.15,-20,-52,32,Combination layer significantly enhances shielding performance.
+5.0,Copper Foil,Single Layer,0.05,-25,-45,20,Maintains good performance at higher frequencies.
+5.0,Aluminum Foil,Single Layer,0.03,-25,-38,13,Less effective for higher frequencies; prone to gaps.
+5.0,Mu-Metal,Single Layer,0.10,-25,-50,25,Highly effective at mid and high frequencies.
+5.0,Copper + Mu-Metal,Layered,0.15,-25,-58,33,Enhanced performance due to combined materials.
+10.0,Copper Foil,Single Layer,0.05,-30,-42,12,Performance decreases at very high frequencies.
+10.0,Aluminum Foil,Single Layer,0.03,-30,-39,9,Minimal shielding effectiveness at high frequencies.
+10.0,Mu-Metal,Single Layer,0.10,-30,-55,25,Retains effectiveness even at high frequencies.
+10.0,Copper + Mu-Metal,Layered,0.15,-30,-63,33,Optimal shielding for extreme frequencies; tight application required.

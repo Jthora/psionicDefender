@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="600" viewBox="0 0 800 600">
+  <!-- Background -->
+  <rect width="800" height="600" fill="#f9f9f9" />
+
+  <!-- Core -->
+  <rect x="300" y="200" width="200" height="200" fill="#d3d3d3" stroke="#333" stroke-width="2" />
+  <text x="400" y="190" text-anchor="middle" font-size="14" fill="#333">Core: Ferrite</text>
+  <text x="400" y="420" text-anchor="middle" font-size="12" fill="#333">Relative Permeability: μr = 2000</text>
+
+  <!-- Coil windings -->
+  <path d="M270,200 
+           C290,180,310,180,330,200 
+           S370,220,390,200 
+           S430,180,450,200 
+           S490,220,510,200"
+        fill="none" stroke="#cc5500" stroke-width="3" />
+  <path d="M270,400 
+           C290,420,310,420,330,400 
+           S370,380,390,400 
+           S430,420,450,400 
+           S490,380,510,400"
+        fill="none" stroke="#cc5500" stroke-width="3" />
+
+  <!-- Magnetic field lines -->
+  <path d="M200,300 C300,150,500,150,600,300" fill="none" stroke="#0088ff" stroke-width="2" stroke-dasharray="5,5" />
+  <path d="M200,300 C300,450,500,450,600,300" fill="none" stroke="#0088ff" stroke-width="2" stroke-dasharray="5,5" />
+  <text x="610" y="300" font-size="12" fill="#0088ff">Magnetic Field Lines</text>
+
+  <!-- Terminals -->
+  <circle cx="270" cy="200" r="6" fill="#333" />
+  <circle cx="270" cy="400" r="6" fill="#333" />
+  <text x="255" y="190" font-size="12" fill="#333">Start</text>
+  <text x="255" y="415" font-size="12" fill="#333">End</text>
+
+  <!-- Dimensions -->
+  <line x1="300" y1="180" x2="500" y2="180" stroke="#000" stroke-width="1" marker-end="url(#arrow)" />
+  <text x="400" y="165" text-anchor="middle" font-size="12" fill="#000">Core Diameter: 200mm</text>
+</svg>

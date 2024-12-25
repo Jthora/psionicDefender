@@ -1,0 +1,19 @@
+Frequency (Hz),Material,Configuration,Thickness (mm),Baseline SPL (dB),Dampened SPL (dB),Reduction (dB),Notes
+20,Mass-Loaded Vinyl,Single Layer,5,-80,-96,16,MLV excels at blocking infrasound due to its high density.
+20,Acoustic Foam,Single Layer,25,-80,-85,5,Foam is less effective for infrasound due to low mass.
+20,Mass-Loaded Vinyl + Foam,Layered,30,-80,-98,18,Combining MLV and foam slightly improves infrasound reduction.
+50,Mass-Loaded Vinyl,Single Layer,5,-85,-100,15,MLV maintains excellent performance at low frequencies.
+50,Acoustic Foam,Single Layer,25,-85,-89,4,Foam adds minor dampening but struggles with low frequencies.
+50,Mass-Loaded Vinyl + Foam,Layered,30,-85,-103,18,Layering provides superior performance for low-frequency blocking.
+100,Mass-Loaded Vinyl,Single Layer,5,-85,-98,13,Consistent performance across low-frequency ranges.
+100,Acoustic Foam,Single Layer,25,-85,-92,7,Moderate performance for low frequencies; better than infrasound.
+100,Mass-Loaded Vinyl + Foam,Layered,30,-85,-101,16,Layered configuration shows noticeable improvement.
+1000,Mass-Loaded Vinyl,Single Layer,5,-90,-97,7,Reduction begins to taper at midrange frequencies.
+1000,Acoustic Foam,Single Layer,25,-90,-94,4,Foam remains somewhat effective for midrange frequencies.
+1000,Mass-Loaded Vinyl + Foam,Layered,30,-90,-99,9,Layering offers slight improvement in midrange reduction.
+5000,Mass-Loaded Vinyl,Single Layer,5,-95,-97,2,MLV’s effectiveness diminishes for higher frequencies.
+5000,Acoustic Foam,Single Layer,25,-95,-96,1,Foam shows negligible impact on high frequencies.
+5000,Mass-Loaded Vinyl + Foam,Layered,30,-95,-98,3,Layered configuration provides minor improvement.
+10000,Mass-Loaded Vinyl,Single Layer,5,-95,-96,1,MLV is nearly ineffective at ultrasonic frequencies.
+10000,Acoustic Foam,Single Layer,25,-95,-95,0,Foam does not impact ultrasonic frequencies.
+10000,Mass-Loaded Vinyl + Foam,Layered,30,-95,-97,2,Layering offers a slight improvement but is limited by material properties.
