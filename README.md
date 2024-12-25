@@ -4,13 +4,11 @@
 **License:** [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)  
 **Purpose:** Protect raver communities, targeted individuals, and everyday citizens from oppressive sonic/psionic interference—through open research and shared DIY solutions.
 
-[![TikTok screenshot](tiktokVideo-Screenshot1.png)](https://www.tiktok.com/t/ZP8N7uY97/)![TikTok screenshot](psiDefenderDisc-mk0_prototype.jpeg)
-
 <p align="center">
   <a href="https://www.tiktok.com/t/ZP8N7uY97/">
-    <img src="tiktokVideo-Screenshot1.png" alt="TikTok screenshot" width="200" />
+    <img src="tiktokVideo-Screenshot1.png" alt="TikTok screenshot" height="400" />
   </a>
-  <img src="psiDefenderDisc-mk0_prototype.jpeg" alt="Psi Defender Disc Prototype" width="200" />
+  <img src="psiDefenderDisc-mk0_prototype.jpeg" alt="Psi Defender Disc Prototype" width="400" />
 </p>
 
 ---
