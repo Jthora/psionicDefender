@@ -5,10 +5,7 @@
 **Purpose:** Protect raver communities, targeted individuals, and everyday citizens from oppressive sonic/psionic interference—through open research and shared DIY solutions.
 
 <p align="center">
-  <a href="https://www.tiktok.com/t/ZP8N7uY97/">
-    <img src="tiktokVideo-Screenshot1.png" alt="TikTok screenshot" height="400" />
-  </a>
-  
+  <a href="https://www.tiktok.com/t/ZP8N7uY97/"><img src="tiktokVideo-Screenshot1.png" alt="TikTok screenshot" height="400" /></a>
   <img src="psiDefenderDisc-mk0_prototype.jpeg" alt="Psi Defender Disc Prototype" height="400" />
 </p>
 
