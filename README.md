@@ -11,7 +11,7 @@ Below are example equations and frequency anchors you can use to help **ground**
 
 ### 7.1 Faraday / EM Shielding
 
-To estimate electromagnetic attenuation through a conducting layer, consider the **skin depth** $\,\delta\,$ and layer thickness $\,t\,$. An approximate formula for attenuation in decibels is:
+To estimate electromagnetic attenuation through a conducting layer, consider the **skin depth** $\,\delta\,$ and layer thickness $ \,t\, $. An approximate formula for attenuation in decibels is:
 
 $$
 \alpha_{\text{dB}}(f) \approx 20 \log_{10}(e)\,\frac{t}{\delta},
