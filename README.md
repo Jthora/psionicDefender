@@ -4,7 +4,7 @@
 **License:** [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)  
 **Purpose:** Protect raver communities, targeted individuals, and everyday citizens from oppressive sonic/psionic interference—through open research and shared DIY solutions.
 
-[![TikTok screenshot](tiktokVideo-Screenshot1.png)](https://www.tiktok.com/t/ZP8N7uY97/)
+[![TikTok screenshot](tiktokVideo-Screenshot1.png)](https://www.tiktok.com/t/ZP8N7uY97/) ![TikTok screenshot](IMG_9328_resized.jpeg)
 
 ---
 
