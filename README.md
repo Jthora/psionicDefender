@@ -29,8 +29,8 @@
 
 The **Psi Defender** is an **open-source** initiative to create, share, and refine **wearable technology** that helps counter various forms of **sonic**, **electromagnetic**, and **psionic** attacks. Our primary audience includes:
 
-- **Ravers** and festival-goers exposed to potentially weaponized sonic/infrasound systems.
 - **Targeted Individuals** who suspect they may be subject to covert mind-control or frequency harassment.
+- **Ravers** and festival-goers exposed to potentially weaponized sonic/infrasound systems.
 - **Privacy and Civil Liberties Advocates** interested in counter-surveillance or EM defense.
 
 ### Why This Matters 💡
