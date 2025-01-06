@@ -147,16 +147,6 @@ For in-depth discussions, visit our [Discussion Board](#) or reach out via email
 
 ---
 
-## Contact & Community 📞
-
-- **Discord/Matrix Server**: [Invite Link](#) *(Work in progress)*  
-- **Email**: [your-email@provider.com](mailto:your-email@provider.com)  
-- **Website**: [https://your-website.org](https://your-website.org)
-
-Join our **community** to share insights, help test new prototypes, and keep this project **evolving**. Every contribution—big or small—adds to the collective defense of vulnerable communities.
-
----
-
 ## License 📝
 [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/)  
 
