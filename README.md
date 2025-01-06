@@ -42,6 +42,16 @@ The **Psi Defender** is an **open-source** initiative to create, share, and refi
    - Lightweight, breathable shells for real-world usage.  
    - Modular expansions: “snap-on” side discs, LED aesthetics for rave environments.
 
+5. **Advanced Subsystems**  
+   - Multi-demensional Copper Tensor Coils (or Gold Tensor Coils)
+   - MHDF(MagnetoHydroDynamicFluid): FerroFluid or Mercury (or Cold Plasma)
+   - EHDF(ElectroHydroDynamicFluid): Electrolytic Water (Salt Water -or- Graphene Water)
+   - Repulsors: Neodymium Magnet Tension Arrays
+   - EMI/RFI shielding materials: Industrial Sprays of Silver/Copper/Carbon/Nickel
+   - Microcomputer (Arduino Nano or Raspberry Pi)
+   - Faraday Fabrics (Military Grade or Superior)
+   - Scalar Wave Double Helix MagnetoFlux Coils
+
 ---
 
 ## Project Structure 🏗️
