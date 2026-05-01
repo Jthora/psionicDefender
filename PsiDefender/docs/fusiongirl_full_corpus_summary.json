@@ -1,0 +1,1638 @@
+{
+  "total_batch_files": 223,
+  "total_pages_in_dump": 4457,
+  "approx_word_count": 3139530,
+  "top_categories": [
+    [
+      "Astro Events",
+      3296
+    ],
+    [
+      "Mercury Transits",
+      1048
+    ],
+    [
+      "Venus Transits",
+      887
+    ],
+    [
+      "Sun Transits",
+      822
+    ],
+    [
+      "Pisces Transits",
+      793
+    ],
+    [
+      "Capricorn Transits",
+      763
+    ],
+    [
+      "Taurus Transits",
+      685
+    ],
+    [
+      "Sextile Aspects",
+      659
+    ],
+    [
+      "Square Aspects",
+      640
+    ],
+    [
+      "Trine Aspects",
+      631
+    ],
+    [
+      "Quincunx Aspects",
+      630
+    ],
+    [
+      "Mars Transits",
+      603
+    ],
+    [
+      "Aries Transits",
+      597
+    ],
+    [
+      "Libra Transits",
+      479
+    ],
+    [
+      "Scorpio Transits",
+      439
+    ],
+    [
+      "Virgo Transits",
+      438
+    ],
+    [
+      "Gemini Transits",
+      438
+    ],
+    [
+      "Jupiter Transits",
+      427
+    ],
+    [
+      "Node Transits",
+      417
+    ],
+    [
+      "Uranus Transits",
+      413
+    ],
+    [
+      "Neptune Transits",
+      406
+    ],
+    [
+      "Pluto Transits",
+      406
+    ],
+    [
+      "Conjunction Aspects",
+      404
+    ],
+    [
+      "Sagittarius Transits",
+      402
+    ],
+    [
+      "Lilith Transits",
+      397
+    ],
+    [
+      "Saturn Transits",
+      394
+    ],
+    [
+      "Cancer Transits",
+      393
+    ],
+    [
+      "Chiron Transits",
+      389
+    ],
+    [
+      "Leo Transits",
+      376
+    ],
+    [
+      "2027 Astro Events",
+      374
+    ],
+    [
+      "2032 Astro Events",
+      374
+    ],
+    [
+      "2025 Astro Events",
+      370
+    ],
+    [
+      "2029 Astro Events",
+      365
+    ],
+    [
+      "Aquarius Transits",
+      363
+    ],
+    [
+      "2031 Astro Events",
+      361
+    ],
+    [
+      "2028 Astro Events",
+      359
+    ],
+    [
+      "2030 Astro Events",
+      358
+    ],
+    [
+      "2026 Astro Events",
+      356
+    ],
+    [
+      "2033 Astro Events",
+      348
+    ],
+    [
+      "Opposition Aspects",
+      321
+    ],
+    [
+      "Astrological Timeline",
+      195
+    ],
+    [
+      "Technology",
+      99
+    ],
+    [
+      "Universal Language",
+      49
+    ],
+    [
+      "Clan Tho'ra",
+      37
+    ],
+    [
+      "Timeline",
+      36
+    ],
+    [
+      "Tho'ra Technology",
+      33
+    ],
+    [
+      "Business Astrology",
+      32
+    ],
+    [
+      "Raves Astrology",
+      32
+    ],
+    [
+      "Space Force Astrology",
+      32
+    ],
+    [
+      "Standard Astrology",
+      32
+    ],
+    [
+      "Planetary Transits",
+      32
+    ],
+    [
+      "2024 Astro Events",
+      30
+    ],
+    [
+      "Fusion Tech",
+      30
+    ],
+    [
+      "Psionics",
+      30
+    ],
+    [
+      "Physics",
+      25
+    ],
+    [
+      "Equipment",
+      24
+    ],
+    [
+      "Planetary Ingresses",
+      19
+    ],
+    [
+      "Gameplay Mechanics",
+      16
+    ],
+    [
+      "Earth Intelligence Network",
+      15
+    ],
+    [
+      "Universal Symbology",
+      14
+    ],
+    [
+      "Lore",
+      14
+    ],
+    [
+      "Power Systems",
+      14
+    ],
+    [
+      "Sub Tech",
+      13
+    ],
+    [
+      "Weapons",
+      13
+    ],
+    [
+      "Psi Devices",
+      13
+    ],
+    [
+      "Solar Cycle 26",
+      12
+    ],
+    [
+      "Solar Cycle 27",
+      12
+    ],
+    [
+      "Magic",
+      12
+    ],
+    [
+      "Tech Levels",
+      12
+    ],
+    [
+      "Suppressed Technology",
+      12
+    ],
+    [
+      "Magnetogravitic Tech",
+      12
+    ],
+    [
+      "FusionGirl Calendars",
+      11
+    ],
+    [
+      "Core Concepts",
+      11
+    ],
+    [
+      "Propulsion",
+      11
+    ],
+    [
+      "Synodic Cycles",
+      11
+    ],
+    [
+      "Energy Systems",
+      10
+    ],
+    [
+      "Electrogravitic Tech",
+      10
+    ],
+    [
+      "Universal Language and Cheat Codes",
+      10
+    ],
+    [
+      "Characters",
+      9
+    ],
+    [
+      "Gameplay",
+      9
+    ],
+    [
+      "Mathematics",
+      8
+    ],
+    [
+      "Vehicles",
+      8
+    ],
+    [
+      "Solar Cycle 25",
+      7
+    ],
+    [
+      "Artificial Intelligence",
+      7
+    ],
+    [
+      "Cross-Cutting Technology",
+      7
+    ],
+    [
+      "Metaphysics",
+      7
+    ],
+    [
+      "Plasmoid Tech",
+      7
+    ],
+    [
+      "FusionGirl Technology",
+      7
+    ],
+    [
+      "Science",
+      6
+    ],
+    [
+      "People",
+      6
+    ],
+    [
+      "AI Companions",
+      5
+    ],
+    [
+      "Cosmic Forces",
+      5
+    ],
+    [
+      "Geometric Primitives",
+      5
+    ],
+    [
+      "FusionGirl",
+      5
+    ],
+    [
+      "Faction Tech",
+      5
+    ],
+    [
+      "Semantic Categories",
+      5
+    ],
+    [
+      "Factions",
+      5
+    ],
+    [
+      "Earth Alliance",
+      5
+    ],
+    [
+      "Defenses",
+      5
+    ],
+    [
+      "Fusion Girl Universe",
+      5
+    ]
+  ],
+  "term_counts": {
+    "field": 1205,
+    "power": 2578,
+    "consciousness": 1333,
+    "psi": 1745,
+    "telepathy": 56,
+    "engineering": 256,
+    "neural": 381,
+    "algorithm": 43,
+    "physics": 433,
+    "hardware": 122,
+    "materials": 151,
+    "current": 188,
+    "psionic": 874,
+    "sensor": 359,
+    "safety": 140,
+    "frequency": 149,
+    "resonance": 276,
+    "signal": 108,
+    "wave": 189,
+    "device": 188,
+    "equation": 317,
+    "psionics": 190,
+    "voltage": 174,
+    "formula": 38,
+    "telekinesis": 20,
+    "shield": 73,
+    "magnet": 6
+  },
+  "top_term_scored_pages": [
+    [
+      299,
+      "Psionics"
+    ],
+    [
+      281,
+      "Psi Field"
+    ],
+    [
+      240,
+      "Sensors"
+    ],
+    [
+      150,
+      "Words of Power"
+    ],
+    [
+      149,
+      "PsiNet"
+    ],
+    [
+      144,
+      "Æther Research & Development"
+    ],
+    [
+      140,
+      "Psi Weapons"
+    ],
+    [
+      131,
+      "Quantum Consciousness"
+    ],
+    [
+      127,
+      "Consciousness"
+    ],
+    [
+      117,
+      "Collective Consciousness"
+    ],
+    [
+      115,
+      "The Great Solar Flash"
+    ],
+    [
+      111,
+      "EMP Pulse Blaster"
+    ],
+    [
+      108,
+      "Plasmoid Tech"
+    ],
+    [
+      100,
+      "Psi"
+    ],
+    [
+      97,
+      "Psionic Defenses"
+    ],
+    [
+      97,
+      "Psi Devices"
+    ],
+    [
+      97,
+      "AI Redemption Initiative Project"
+    ],
+    [
+      92,
+      "Psychotronics"
+    ],
+    [
+      91,
+      "Quantum Stabilizer Unit (QSU)"
+    ],
+    [
+      82,
+      "QuaziPhysics"
+    ],
+    [
+      81,
+      "Fields"
+    ],
+    [
+      79,
+      "Timeline Convergence Problem"
+    ],
+    [
+      73,
+      "Noosphere"
+    ],
+    [
+      73,
+      "Collective Consciousness (Sociology)"
+    ],
+    [
+      72,
+      "Equations, Formulas and Algorithms"
+    ],
+    [
+      71,
+      "Spiral Energy"
+    ],
+    [
+      70,
+      "Shield Tech"
+    ],
+    [
+      68,
+      "Psi Harmonizer"
+    ],
+    [
+      68,
+      "Kineso Switch"
+    ],
+    [
+      67,
+      "Vector and Matrix Operators"
+    ],
+    [
+      65,
+      "Psi Power"
+    ],
+    [
+      62,
+      "Psychic"
+    ],
+    [
+      62,
+      "Psi Gear"
+    ],
+    [
+      60,
+      "Special Types of Power Systems"
+    ],
+    [
+      60,
+      "Psi Ward"
+    ],
+    [
+      60,
+      "Neural Firewall"
+    ],
+    [
+      57,
+      "QuasiPhysics"
+    ],
+    [
+      56,
+      "Phonons"
+    ],
+    [
+      54,
+      "Scientific Foundations of Psionics"
+    ],
+    [
+      54,
+      "Psi Scanner"
+    ],
+    [
+      53,
+      "Boltzmann Brains"
+    ],
+    [
+      52,
+      "Neural Scrambler"
+    ],
+    [
+      52,
+      "Five Specifics"
+    ],
+    [
+      52,
+      "Engineering Technology that combines Magnetohydrodynamic (MHD) fluids, Quantum Mechanics, and Spin Waves"
+    ],
+    [
+      52,
+      "Bio Tech"
+    ],
+    [
+      50,
+      "Mind Spike"
+    ],
+    [
+      48,
+      "Precognition"
+    ],
+    [
+      48,
+      "Dark Energy"
+    ],
+    [
+      48,
+      "Comm Tech"
+    ],
+    [
+      47,
+      "QuaziParticles"
+    ],
+    [
+      47,
+      "Psi Pressure"
+    ],
+    [
+      47,
+      "Psi Flow"
+    ],
+    [
+      47,
+      "Psi Energy Density Scalar Field"
+    ],
+    [
+      47,
+      "Psi Emitter"
+    ],
+    [
+      46,
+      "Psychotronic Generator"
+    ],
+    [
+      46,
+      "Psi Disruptor"
+    ],
+    [
+      46,
+      "Psi Defender"
+    ],
+    [
+      46,
+      "Law of One"
+    ],
+    [
+      46,
+      "Harmonic Nuclear Fusion"
+    ],
+    [
+      45,
+      "Psi-Ops"
+    ],
+    [
+      45,
+      "Psi Jammer"
+    ],
+    [
+      45,
+      "Combat Dance Style: Harmonic Fusion Flow Martial Arts"
+    ],
+    [
+      43,
+      "Psi Focus"
+    ],
+    [
+      43,
+      "Pais Effect"
+    ],
+    [
+      43,
+      "Magneto Speeder"
+    ],
+    [
+      43,
+      "Fusion Wings"
+    ],
+    [
+      42,
+      "Telekinesis"
+    ],
+    [
+      42,
+      "Sensor Tech"
+    ],
+    [
+      42,
+      "Magnons"
+    ],
+    [
+      41,
+      "Thunderstorm Generator"
+    ],
+    [
+      41,
+      "Psi Strength"
+    ],
+    [
+      41,
+      "Magnetogravitics"
+    ],
+    [
+      41,
+      "Higher-Dimensional Physics"
+    ],
+    [
+      40,
+      "Gravitoelectromagnetism"
+    ],
+    [
+      39,
+      "Med Tech"
+    ],
+    [
+      38,
+      "MHD Core"
+    ],
+    [
+      38,
+      "December 21, 2012"
+    ],
+    [
+      37,
+      "Spintronics"
+    ],
+    [
+      37,
+      "Psi Control"
+    ],
+    [
+      37,
+      "Neural Network Hardware"
+    ],
+    [
+      36,
+      "Water Engine"
+    ],
+    [
+      36,
+      "Universal Physics"
+    ],
+    [
+      36,
+      "The Cosmic Codex"
+    ],
+    [
+      36,
+      "Science"
+    ],
+    [
+      36,
+      "Psionic Resonance Uplink"
+    ],
+    [
+      36,
+      "Psionic Ink"
+    ],
+    [
+      36,
+      "Plasmoid Generator"
+    ],
+    [
+      36,
+      "Gravitomagnetic London Moment"
+    ],
+    [
+      36,
+      "Cosmic Neighbors"
+    ],
+    [
+      35,
+      "Fusion Engine Suit"
+    ],
+    [
+      34,
+      "Psychic Paper"
+    ],
+    [
+      34,
+      "Psi Stabilizers"
+    ],
+    [
+      34,
+      "Omega Point"
+    ],
+    [
+      34,
+      "Non-Hertzian Scalar Wave"
+    ],
+    [
+      33,
+      "Star Speeder"
+    ],
+    [
+      33,
+      "Heim Theory"
+    ],
+    [
+      33,
+      "Flash Hydrogen Fuel Cell"
+    ],
+    [
+      33,
+      "Defense Discs"
+    ],
+    [
+      32,
+      "Woodward Effect"
+    ],
+    [
+      32,
+      "Weapon Tech"
+    ],
+    [
+      32,
+      "Psi Blades"
+    ],
+    [
+      32,
+      "Music"
+    ],
+    [
+      31,
+      "Weapons"
+    ],
+    [
+      31,
+      "Universal Psychology"
+    ],
+    [
+      31,
+      "Jono Tho'ra"
+    ],
+    [
+      31,
+      "AI Tech"
+    ],
+    [
+      30,
+      "Universal Language"
+    ],
+    [
+      30,
+      "Pre-Ionization Chamber"
+    ],
+    [
+      30,
+      "Hyper Fusion"
+    ],
+    [
+      30,
+      "Electrogravitics"
+    ],
+    [
+      29,
+      "Universal Biology"
+    ],
+    [
+      29,
+      "Magnetogravitic Tech"
+    ],
+    [
+      28,
+      "Psionic Field Projection"
+    ],
+    [
+      28,
+      "Martin Tajmar"
+    ],
+    [
+      28,
+      "Magnetohydrodynamics"
+    ],
+    [
+      28,
+      "Kaluza-Klein Unification"
+    ],
+    [
+      28,
+      "Cosmic Cypher"
+    ],
+    [
+      27,
+      "Turbonic Venturi Assimilator"
+    ],
+    [
+      27,
+      "Glitch Tech"
+    ],
+    [
+      27,
+      "Conscions"
+    ],
+    [
+      27,
+      "Angel Tech"
+    ],
+    [
+      26,
+      "Ultra Shields"
+    ],
+    [
+      26,
+      "Psyons"
+    ],
+    [
+      26,
+      "HelmKit"
+    ],
+    [
+      26,
+      "Biefeld-Brown Effect"
+    ],
+    [
+      25,
+      "Tho'ra HQ"
+    ],
+    [
+      25,
+      "Resonant Water Fuel Cell"
+    ],
+    [
+      25,
+      "PsiLink"
+    ],
+    [
+      25,
+      "Mecha"
+    ],
+    [
+      25,
+      "Fusion Tech"
+    ],
+    [
+      25,
+      "Awakening Process"
+    ],
+    [
+      24,
+      "Universal Communications"
+    ],
+    [
+      24,
+      "Ley Line"
+    ],
+    [
+      23,
+      "Simulation Hypothesis"
+    ],
+    [
+      23,
+      "Quantum Tech"
+    ],
+    [
+      23,
+      "Anti-Spiral"
+    ],
+    [
+      22,
+      "Stealth Tech"
+    ],
+    [
+      22,
+      "Magnetohydrodynamic"
+    ],
+    [
+      22,
+      "Energy Tech"
+    ],
+    [
+      21,
+      "Scope Levels"
+    ],
+    [
+      21,
+      "Psisys"
+    ],
+    [
+      21,
+      "Power Systems"
+    ],
+    [
+      21,
+      "Electrokinetics"
+    ],
+    [
+      20,
+      "VHV Systems"
+    ],
+    [
+      20,
+      "The Flashpoint Event"
+    ],
+    [
+      20,
+      "Project Looking Glass"
+    ],
+    [
+      20,
+      "Ning Li"
+    ],
+    [
+      20,
+      "Micro Fusion Fuel Cells"
+    ],
+    [
+      20,
+      "Fusion Cells"
+    ],
+    [
+      20,
+      "6 Levels of Intelligence"
+    ],
+    [
+      19,
+      "Turbo Fusion"
+    ],
+    [
+      19,
+      "Technology"
+    ],
+    [
+      19,
+      "Plasma Morphers"
+    ],
+    [
+      19,
+      "Massive Dam of Lies"
+    ],
+    [
+      19,
+      "Jono Tho'ra - The Master Plan to become ZOCOM Field Commander"
+    ],
+    [
+      18,
+      "Super Fusion"
+    ],
+    [
+      18,
+      "Spiral Nemesis"
+    ],
+    [
+      18,
+      "Plasmons"
+    ],
+    [
+      18,
+      "Context TXT Fusion Girl Overview"
+    ],
+    [
+      17,
+      "Scalar White Light"
+    ],
+    [
+      17,
+      "Quaziparticles"
+    ],
+    [
+      17,
+      "Mathematics"
+    ],
+    [
+      17,
+      "Gravity Tech"
+    ],
+    [
+      17,
+      "Game Robots"
+    ],
+    [
+      17,
+      "Fusion Turbines"
+    ],
+    [
+      17,
+      "Fusion (Philosophy)"
+    ],
+    [
+      17,
+      "Emotionons"
+    ],
+    [
+      17,
+      "Beu"
+    ],
+    [
+      16,
+      "Ætherons"
+    ],
+    [
+      16,
+      "Universal Magic"
+    ],
+    [
+      16,
+      "Jono Tho'ra/Persona Core"
+    ],
+    [
+      16,
+      "Fusion"
+    ],
+    [
+      16,
+      "Electrogravitic Tech"
+    ],
+    [
+      15,
+      "Thomas Townsend Brown"
+    ],
+    [
+      15,
+      "Tate Experiment"
+    ],
+    [
+      15,
+      "Sparkle Flairs"
+    ],
+    [
+      15,
+      "New Magic"
+    ],
+    [
+      15,
+      "Nefarium Tech"
+    ],
+    [
+      15,
+      "Mecha Tech"
+    ],
+    [
+      15,
+      "Gravity Probe B"
+    ],
+    [
+      15,
+      "Gamification of Exploits in Video Games: Embracing Glitches as Gameplay Mechanics"
+    ],
+    [
+      15,
+      "Fusion Engines"
+    ],
+    [
+      15,
+      "Fusion Drive"
+    ],
+    [
+      15,
+      "C.A.B.A.L. Tech"
+    ],
+    [
+      15,
+      "Astrological Transits 2030 (Raves Astrology)"
+    ],
+    [
+      14,
+      "Mechanites"
+    ],
+    [
+      14,
+      "Malefic AI"
+    ],
+    [
+      14,
+      "Magnetokinetics"
+    ],
+    [
+      14,
+      "Cold Fusion"
+    ],
+    [
+      14,
+      "Astrological Transits 2029 (Raves Astrology)"
+    ],
+    [
+      13,
+      "Twin-Duo Hydrogen Thrusters"
+    ],
+    [
+      13,
+      "The Cheat Codes to the Universe"
+    ],
+    [
+      13,
+      "Star Morphers"
+    ],
+    [
+      13,
+      "PsiSys"
+    ],
+    [
+      13,
+      "Project Winterhaven"
+    ],
+    [
+      13,
+      "Pop Cells"
+    ],
+    [
+      13,
+      "Natura Magic"
+    ],
+    [
+      13,
+      "Mecha Jono"
+    ],
+    [
+      13,
+      "Indium"
+    ],
+    [
+      13,
+      "Flash Hydrogen"
+    ],
+    [
+      13,
+      "Astrological Transits 2028 (Raves Astrology)"
+    ],
+    [
+      12,
+      "The Nefarium"
+    ],
+    [
+      12,
+      "Terminology"
+    ],
+    [
+      12,
+      "Synchronons"
+    ],
+    [
+      12,
+      "Sub Tech"
+    ],
+    [
+      12,
+      "Quantum Reality Architect"
+    ],
+    [
+      12,
+      "Malefic AI and Universal Symbology"
+    ],
+    [
+      12,
+      "Fusion Weapons"
+    ],
+    [
+      12,
+      "Cryo Tech"
+    ],
+    [
+      12,
+      "Corruption Matrix"
+    ],
+    [
+      12,
+      "Base 12"
+    ],
+    [
+      12,
+      "Archo Tech"
+    ],
+    [
+      11,
+      "Singularity"
+    ],
+    [
+      11,
+      "Reality Distortion and Stabilization Tech"
+    ],
+    [
+      11,
+      "QuasiParticles"
+    ],
+    [
+      11,
+      "Proto Encryption"
+    ],
+    [
+      11,
+      "Operators"
+    ],
+    [
+      11,
+      "Nether"
+    ],
+    [
+      11,
+      "Medieval Tech"
+    ],
+    [
+      11,
+      "Hydro Speeder"
+    ],
+    [
+      11,
+      "Hermann Plauson"
+    ],
+    [
+      11,
+      "Fusion Cutters"
+    ],
+    [
+      11,
+      "Emotional Permutation Mathematics"
+    ],
+    [
+      11,
+      "Drone Tech"
+    ],
+    [
+      11,
+      "Cyber Tech"
+    ],
+    [
+      11,
+      "Cosmic Forces"
+    ],
+    [
+      11,
+      "Atmospheric Electricity"
+    ],
+    [
+      11,
+      "Astrological Transits 2027 (Raves Astrology)"
+    ],
+    [
+      11,
+      "Astrological Transits 2026 (Raves Astrology)"
+    ],
+    [
+      11,
+      "Argent Energy"
+    ],
+    [
+      10,
+      "UQPL"
+    ],
+    [
+      10,
+      "Tho'ra Training Program"
+    ],
+    [
+      10,
+      "The RaveLite Plan"
+    ],
+    [
+      10,
+      "Super Tech"
+    ],
+    [
+      10,
+      "Starfighter Component Category System"
+    ],
+    [
+      10,
+      "Psi Tech"
+    ],
+    [
+      10,
+      "Neolithic Tech"
+    ],
+    [
+      10,
+      "Exotic Vacuum Objects"
+    ],
+    [
+      10,
+      "BEU"
+    ],
+    [
+      10,
+      "Astrological Transits 2033 (Space Force Astrology)"
+    ],
+    [
+      9,
+      "Ultra Tech"
+    ],
+    [
+      9,
+      "The Language of the Angels"
+    ],
+    [
+      9,
+      "Tech Levels"
+    ],
+    [
+      9,
+      "Super Blades"
+    ],
+    [
+      9,
+      "Spacer Tech"
+    ],
+    [
+      9,
+      "Parasites"
+    ],
+    [
+      9,
+      "Magic"
+    ],
+    [
+      9,
+      "HHO Generator"
+    ],
+    [
+      9,
+      "Gitch Tech"
+    ],
+    [
+      9,
+      "Gameplay"
+    ],
+    [
+      9,
+      "Exocraft"
+    ],
+    [
+      9,
+      "Existence (Universal Language)"
+    ],
+    [
+      9,
+      "Astrological Transits 2046 (Standard Astrology)"
+    ],
+    [
+      9,
+      "Astrological Transits 2046 (Space Force Astrology)"
+    ],
+    [
+      9,
+      "Astrological Transits 2046 (Raves Astrology)"
+    ],
+    [
+      9,
+      "Astrological Transits 2046 (Business Astrology)"
+    ],
+    [
+      9,
+      "Astrological Transits 2032 (Space Force Astrology)"
+    ],
+    [
+      9,
+      "Astrological Transits 2030 (Space Force Astrology)"
+    ],
+    [
+      8,
+      "Universal Music"
+    ],
+    [
+      8,
+      "Timestream Framework"
+    ],
+    [
+      8,
+      "Tho'ra Clan Psi-Ops Training Program"
+    ],
+    [
+      8,
+      "The Fusion Girl Saga"
+    ],
+    [
+      8,
+      "Tengen Toppa Gurren Lagann"
+    ],
+    [
+      8,
+      "Robo Tech"
+    ],
+    [
+      8,
+      "Quantum Printing"
+    ],
+    [
+      8,
+      "Nuclear Fission"
+    ],
+    [
+      8,
+      "Morphing Grid"
+    ],
+    [
+      8,
+      "Fusion Blades"
+    ],
+    [
+      8,
+      "Earth Alliance"
+    ],
+    [
+      8,
+      "Cosmic Cypher Scroll"
+    ],
+    [
+      8,
+      "Context JSON Plan Context for Solar Cycle 25"
+    ],
+    [
+      8,
+      "Concept (Universal Language)"
+    ],
+    [
+      8,
+      "Cavitation"
+    ],
+    [
+      8,
+      "Astrological Transits 2052 (Standard Astrology)"
+    ],
+    [
+      8,
+      "Astrological Transits 2052 (Space Force Astrology)"
+    ],
+    [
+      8,
+      "Astrological Transits 2052 (Raves Astrology)"
+    ],
+    [
+      8,
+      "Astrological Transits 2052 (Business Astrology)"
+    ],
+    [
+      8,
+      "Astrological Transits 2048 (Standard Astrology)"
+    ],
+    [
+      8,
+      "Astrological Transits 2048 (Space Force Astrology)"
+    ],
+    [
+      8,
+      "Astrological Transits 2048 (Raves Astrology)"
+    ],
+    [
+      8,
+      "Astrological Transits 2048 (Business Astrology)"
+    ],
+    [
+      8,
+      "Astrological Transits 2031 (Space Force Astrology)"
+    ],
+    [
+      8,
+      "Angle (Universal Language)"
+    ],
+    [
+      7,
+      "Universal Symbology"
+    ],
+    [
+      7,
+      "Universal Ethics"
+    ],
+    [
+      7,
+      "Tho'ra Clan Psychic Training Program"
+    ],
+    [
+      7,
+      "Tho'ra"
+    ],
+    [
+      7,
+      "Super Cosmic Forces"
+    ],
+    [
+      7,
+      "Reverberons"
+    ],
+    [
+      7,
+      "Process (Universal Language)"
+    ],
+    [
+      7,
+      "Point (Universal Language)"
+    ],
+    [
+      7,
+      "Nano Tech"
+    ],
+    [
+      7,
+      "Metal Candles"
+    ],
+    [
+      7,
+      "Fusion Thrusters"
+    ],
+    [
+      7,
+      "Fabrication Tech"
+    ],
+    [
+      7,
+      "Astrological Transits 2056 (Standard Astrology)"
+    ],
+    [
+      7,
+      "Astrological Transits 2056 (Space Force Astrology)"
+    ],
+    [
+      7,
+      "Astrological Transits 2056 (Raves Astrology)"
+    ],
+    [
+      7,
+      "Astrological Transits 2056 (Business Astrology)"
+    ],
+    [
+      7,
+      "Astrological Transits 2051 (Standard Astrology)"
+    ]
+  ]
+}
